@@ -1,3 +1,6 @@
+https://github.com/CodacOne/CodacOne/blob/main/e8cb140d-e7f2-40fc-82e2-97e78e7e1e7f.webp?raw=true
+
+
 <h2 style="color:#0d6efd; font-weight:bold;">Hi there 😄👋 I'm Abdulftah Kashkash</h2>
 
 **Control & Industrial Automation Engineer** | **Passionate Software Developer**
