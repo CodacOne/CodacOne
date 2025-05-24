@@ -1,6 +1,9 @@
 ## Hi there 👋
 
 <!--
+
+## About Me
+I hold a degree in **Control Systems and Industrial Automation Engineering**, with a burning passion for software development and building impactful applications. My engineering background gives me a unique perspective in creating robust, efficient solutions that bridge hardware and software worlds.
 **CodacOne/CodacOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
