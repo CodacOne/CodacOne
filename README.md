@@ -1,6 +1,12 @@
-## Hi there 👋
-About Me
+## Hi there 👋 I'm Abdulftah Kashkash
+**Control & Industrial Automation Engineer** | **Passionate Software Developer**
+
+🚀 About Me
 I hold a degree in **Control Systems and Industrial Automation Engineering**, with a burning passion for software development and building impactful applications. My engineering background gives me a unique perspective in creating robust, efficient solutions that bridge hardware and software worlds.
+
+
+
+
 <!--
 
 ## 
