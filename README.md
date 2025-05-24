@@ -34,7 +34,7 @@ I enjoy solving real-world problems through code, and I'm always eager to learn 
 - 🛠️ PLC programming basics (via engineering background)
 - ☀️ Solar Energy Systems (Design & Setup Experience)
 - 📡 Embedded Systems (Basic knowledge)
-
+- 🧮 Data Structures & Algorithms (with strong foundational understanding)
 ---
 
 <h3 style="color:#ffc107; font-weight:bold;">📌 Featured Projects:</h3>
@@ -50,6 +50,8 @@ I enjoy solving real-world problems through code, and I'm always eager to learn 
 - ✅ C++ for Beginners to Intermediate  
 - ✅ SQL & Database Design  
 - ✅ Systems Analysis & Software Design  
+- ✅ ADO.NET and Data Access in .NET  
+- ✅ Data Structures & Algorithms  
 - ✅ Introduction to Embedded Systems  
 - ✅ Solar Energy System Design and Installation  
 
