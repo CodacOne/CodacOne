@@ -27,6 +27,7 @@ I enjoy solving real-world problems through code, and I'm always eager to learn 
 - 🧪 Entity Framework
 - 🧰 Visual Studio
 - 🐱 Git & GitHub
+- 🔗 ADO.NET
 
 **Other Tools:**
 
