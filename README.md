@@ -56,7 +56,7 @@ I enjoy solving real-world problems through code, and I'm always eager to learn 
 
 ---
 
-### 🔹 [Bank Console Management System](https://github.com/CodacOne/Bank-Console)
+### 🔹 [Bank Console Management System](https://github.com/CodacOne/Project-Bank-Console-.git)
 🏦 A full-featured banking system using **C++** and **console interface**:
 - Manages clients, users, and transactions
 - Data is stored in plain text files
