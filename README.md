@@ -65,7 +65,7 @@ I enjoy solving real-world problems through code, and I'm always eager to learn 
 
 ---
 
-### 🔹 [Data Structures - Level 1](https://github.com/CodacOne/Data-Structure-1)
+### 🔹 [Data Structures - Level 1](https://github.com/CodacOne/Data-Structure-1-.git)
 📚 Basic projects in C++ covering:
 - Stack, Queue, Linked Lists (Singly/Doubly)
 - Node operations (Insert, Delete, Find)
@@ -73,7 +73,7 @@ I enjoy solving real-world problems through code, and I'm always eager to learn 
 
 ---
 
-### 🔹 [Data Structures - Level 2](https://github.com/CodacOne/Data-Structure-2)
+### 🔹 [Data Structures - Level 2](https://github.com/CodacOne/Data-Structure-2-.git)
 🔧 Intermediate projects in C++:
 - Dynamic Array, Custom Stack and Queue
 - Linked List extensions and utility functions
@@ -81,7 +81,7 @@ I enjoy solving real-world problems through code, and I'm always eager to learn 
 
 ---
 
-### 🔹 [Simple Projects in C#](https://github.com/CodacOne/simple-Project-in-C-sharp)
+### 🔹 [Simple Projects in C#](https://github.com/CodacOne/simple-Project-in-C-sharp.git)
 🧩 A collection of beginner-to-intermediate level mini projects built with **C#**:
 - Demonstrates core principles of OOP
 - Covers Windows Forms usage and console apps
@@ -89,7 +89,7 @@ I enjoy solving real-world problems through code, and I'm always eager to learn 
 
 ---
 
-### 🔹 [Personal Contact Info](https://github.com/CodacOne/Contact)
+### 🔹 [Personal Contact Info](https://github.com/CodacOne/Contacts-Project-Using-3-Tier-Architecture.git)
 📇 A minimal C++ console project for managing personal contact data:
 - Demonstrates string handling, basic struct usage, and file storage
 - Useful as a learning tool for beginners in handling input/output and file manipulation
