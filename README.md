@@ -45,10 +45,55 @@ I enjoy solving real-world problems through code, and I'm always eager to learn 
 - 🧮 Data Structures & Algorithms (with strong foundational understanding)
 ---
 
-<h3 style="color:#ffc107; font-weight:bold;">📌 Featured Projects:</h3>
+## 📌 Featured Projects
 
-- **Driver License Management System**  
-  A Windows Forms application that manages driver license data, renewal, replacement, and international issuance logic using a modular UserControl approach.
+### 🔹 [Driver License Management System](https://github.com/CodacOne/DVLD-DriverLicenseSystem)
+🪪 A Windows Forms application that manages driver license operations:
+- Issue, renew, and replace driver licenses
+- International license generation
+- Event-driven modular design using reusable `UserControl` components
+- SQL Server database integration
+
+---
+
+### 🔹 [Bank Console Management System](https://github.com/CodacOne/Bank-Console)
+🏦 A full-featured banking system using **C++** and **console interface**:
+- Manages clients, users, and transactions
+- Data is stored in plain text files
+- Secure login/logout system with **binary-based permission control**
+- Includes: transfer system, log history, currency exchange, and user roles
+
+---
+
+### 🔹 [Data Structures - Level 1](https://github.com/CodacOne/Data-Structure-1)
+📚 Basic projects in C++ covering:
+- Stack, Queue, Linked Lists (Singly/Doubly)
+- Node operations (Insert, Delete, Find)
+- Fundamental understanding of pointers and structures
+
+---
+
+### 🔹 [Data Structures - Level 2](https://github.com/CodacOne/Data-Structure-2)
+🔧 Intermediate projects in C++:
+- Dynamic Array, Custom Stack and Queue
+- Linked List extensions and utility functions
+- Application-focused data structures
+
+---
+
+### 🔹 [Simple Projects in C#](https://github.com/CodacOne/simple-Project-in-C-sharp)
+🧩 A collection of beginner-to-intermediate level mini projects built with **C#**:
+- Demonstrates core principles of OOP
+- Covers Windows Forms usage and console apps
+- Great for learners practicing with controls, forms, and logic building
+
+---
+
+### 🔹 [Personal Contact Info](https://github.com/CodacOne/Contact)
+📇 A minimal C++ console project for managing personal contact data:
+- Demonstrates string handling, basic struct usage, and file storage
+- Useful as a learning tool for beginners in handling input/output and file manipulation
+
 
 ---
 
