@@ -4,7 +4,9 @@
 
 
 
-<h2 style="color:#0d6efd; font-weight:bold;">Hi there 😄👋 I'm Abdulftah Kashkash</h2>
+<h2 style="color:#0d6efd; font-weight:bold;">Hi there 😄
+  
+  👋 I'm Abdulftah Kashkash</h2>
 
 **Control & Industrial Automation Engineer** | **Passionate Software Developer**
 
