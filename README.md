@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/AbdulftahKashkash/AbdulftahKashkash/blob/main/assets/profile.webp?raw=true" alt="Profile Image" width="300" style="border-radius: 10px;" />
-</p>
 
 
 
