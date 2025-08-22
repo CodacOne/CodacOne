@@ -109,7 +109,7 @@ I enjoy solving real-world problems through code, and I'm always eager to learn 
 
 <h3 style="color:#fd7e14; font-weight:bold;">🤝 Let's Connect:</h3>
 
-- 📧 Email: you@example.com  
+- 📧 Email: abdyaho545@gmail.com.com  
 - 🔗 Telegram: [@Dev_Abdulfatah_19](https://t.me/Dev_Abdulfatah_19)  
 - 💼 LinkedIn: [Abdulfatah Kashkash](https://www.linkedin.com/in/abdulfatah-kashkash-%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%81%D8%AA%D8%A7%D8%AD-2928b7238)
 
