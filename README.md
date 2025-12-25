@@ -59,12 +59,14 @@ I enjoy solving real-world problems through code, and I'm always eager to learn 
 💡 This project reflects my ability to build practical automation solutions that interact with real government systems and handle real-world data complexities.
 
 ---
-### 🔹 [Driver License Management System](https://github.com/CodacOne/DVLD_Version-2.git)
-🪪 A Windows Forms application that manages driver license operations:
-- Issue, renew, and replace driver licenses
-- International license generation
-- Event-driven modular design using reusable `UserControl` components
-- SQL Server database integration
+### 🔹 [Automated Technical Inspection Bot (Bot Doroob)](https://github.com/CodacOne/Bot_Doroob_public.git)
+🚗 A real-world automation bot that retrieves and analyzes vehicle technical inspection results:
+- Fetches inspection results from the official Ministry website
+- Parses and analyzes HTML responses to determine vehicle status
+- Extracts detailed inspection messages and conditions
+- Handles error cases and suspended vehicle scenarios
+- Built with clean, modular C# architecture
+
 
 ---
 
