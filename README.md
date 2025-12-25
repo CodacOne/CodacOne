@@ -5,8 +5,7 @@
   
   👋 I'm Abdulftah Kashkash</h2>
 
-**Control & Industrial Automation Engineer** | **Passionate Software Developer**
-
+**Software Engineer** & **Systems Developer**
 ---
 
 <h3 style="color:#ff5733; font-weight:bold;">🚀⚡ About Me:</h3>
@@ -18,53 +17,48 @@ I focus on building scalable, secure, and maintainable systems, including RESTfu
 My engineering mindset helps me design systems with strong logic, reliability, and clean architecture — turning complex requirements into efficient software solutions.
 
 🛠️ Technical Skills
-💻 Programming & Backend Development
+💻 Programming & Backend Development:
+• C# (.NET)
+• ASP.NET Core Web API
+• RESTful API Design
+• Backend Architecture & System Design
 
-– C# (.NET)
-– ASP.NET Core Web API
-– RESTful API Design
-– Backend Architecture & System Design
-
-🗄️ Databases & Data Access
-
-– SQL (Querying & Relational Design)
-– Entity Framework Core
-– Migrations & Data Modeling
+💾 Database & Data Management
+• SQL (Querying & Relational Design)
+• Entity Framework Core
+• Migrations & Data Modeling
 
 🔐 Security & Authentication
-
-– JWT Authentication & Authorization
-– Secure Password Hashing
-– Role-based access concepts
+• JWT Authentication & Authorization
+• Secure Password Hashing
+• Role-based Access Concepts
 
 ⚙️ Automation & Integration
-
-– Automation Bots & Data Extraction
-– HTTP Requests & API Integration
-– HTML Parsing & Data Analysis
-– Error Handling & Edge Case Management
+• Automation Bots & Data Extraction
+• HTTP Requests & API Integration
+• HTML Parsing & Data Analysis
+• Error Handling & Edge Case Management
 
 🧩 Architecture & Code Quality
-
-– Clean Architecture Principles
-– Repository & Service Pattern
-– Dependency Injection (DI)
-– Modular & Maintainable Code
+• Clean Architecture Principles
+• Repository & Service Pattern
+• Dependency Injection (DI)
+• Modular & Maintainable Code
 
 🧰 Tools & Workflow
-
-– Git & GitHub
-– Visual Studio
-– API Testing & Debugging
-– Problem Solving & Debugging
+• Git & GitHub
+• Visual Studio
+• API Testing & Debugging
+• Problem Solving & Debugging
 
 🧠 Core Strengths
+• Building real-world automation solutions
+• Designing secure and scalable backend systems
+• Translating complex requirements into clean software design
+• Strong analytical thinking with engineering discipline
 
-– Building real-world automation solutions
-– Designing secure and scalable backend systems
-– Translating complex requirements into clean software design
-– Strong analytical thinking with engineering discipline
-
+------------------
+------------------
 ## 📌 Recent Projects
 ---
 ### 🔹 [Automated Technical Inspection Bot (Bot Doroob)](https://github.com/CodacOne/Bot_Doroob_public.git)
