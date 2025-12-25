@@ -69,7 +69,31 @@ I enjoy solving real-world problems through code, and I'm always eager to learn 
 
 
 ---
+### 🔹 [ToDo List RESTful Web API](https://github.com/CodacOne/To_Do_List.git)
+📝 A task management RESTful API built with **ASP.NET Core**:
 
+– Full CRUD operations for tasks and users  
+– JWT Authentication & Authorization using Bearer tokens  
+– Secure password hashing with PasswordHasher  
+– Layered architecture (Controller → Service → Repository)  
+– Entity Framework Core with Migrations  
+– Pagination and filtering for task retrieval  
+– Clean, scalable, and maintainable API design  
+
+🧠 Technologies & Concepts Used:
+
+– ASP.NET Core Web API  
+– C# (.NET)  
+– Entity Framework Core  
+– JWT Authentication & Authorization  
+– Repository & Service Pattern  
+– Dependency Injection (DI)  
+– RESTful API principles  
+– Secure password hashing  
+– Pagination & Filtering  
+– Clean Architecture concepts  
+
+---
 ### 🔹 [Bank Console Management System](https://github.com/CodacOne/Project-Bank-Console-.git)
 🏦 A full-featured banking system using **C++** and **console interface**:
 - Manages clients, users, and transactions
