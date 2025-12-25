@@ -11,41 +11,64 @@
 
 <h3 style="color:#ff5733; font-weight:bold;">🚀⚡ About Me:</h3>
 
-I hold a degree in **Control Systems and Industrial Automation Engineering**, with a burning passion for software development and building impactful applications. My engineering background gives me a unique perspective in creating robust, efficient solutions that bridge hardware and software worlds.
+I’m a Software Engineer with a background in Control & Industrial Automation Engineering, specializing in backend development, system design, and automation solutions.
 
-I enjoy solving real-world problems through code, and I'm always eager to learn and explore new technologies. Whether it's working on embedded systems, building desktop applications, or contributing to open-source projects — I'm all in! 🔧💻
+I focus on building scalable, secure, and maintainable systems, including RESTful APIs, automation bots, and real-world applications that interact with external services and government platforms.
 
+My engineering mindset helps me design systems with strong logic, reliability, and clean architecture — turning complex requirements into efficient software solutions.
+
+🛠️ Technical Skills
+💻 Programming & Backend Development
+
+– C# (.NET)
+– ASP.NET Core Web API
+– RESTful API Design
+– Backend Architecture & System Design
+
+🗄️ Databases & Data Access
+
+– SQL (Querying & Relational Design)
+– Entity Framework Core
+– Migrations & Data Modeling
+
+🔐 Security & Authentication
+
+– JWT Authentication & Authorization
+– Secure Password Hashing
+– Role-based access concepts
+
+⚙️ Automation & Integration
+
+– Automation Bots & Data Extraction
+– HTTP Requests & API Integration
+– HTML Parsing & Data Analysis
+– Error Handling & Edge Case Management
+
+🧩 Architecture & Code Quality
+
+– Clean Architecture Principles
+– Repository & Service Pattern
+– Dependency Injection (DI)
+– Modular & Maintainable Code
+
+🧰 Tools & Workflow
+
+– Git & GitHub
+– Visual Studio
+– API Testing & Debugging
+– Problem Solving & Debugging
+
+🧠 Core Strengths
+
+– Building real-world automation solutions
+– Designing secure and scalable backend systems
+– Translating complex requirements into clean software design
+– Strong analytical thinking with engineering discipline
+
+## 📌 Recent Projects
 ---
-
-<h3 style="color:#28a745; font-weight:bold;">🛠️💬 Technical Skills:</h3>
-
-**Programming Languages:**
-
-- 💻 C# (Proficient)
-- 🧠 C++ (Intermediate)
-- 🗄️ SQL (Database Queries)
-
-**Frameworks & Tools:**
-
-- 🧩 .NET Framework / .NET Core
-- 🪟 Windows Forms
-- 🧪 Entity Framework
-- 🧰 Visual Studio
-- 🐱 Git & GitHub
-- 🔗 ADO.NET
-
-**Other Tools:**
-
-- 🛠️ PLC programming basics (via engineering background)
-- ☀️ Solar Energy Systems (Design & Setup Experience)
-- 📡 Embedded Systems (Basic knowledge)
-- 🧮 Data Structures & Algorithms (with strong foundational understanding)
----
-
-## 📌 Featured Projects
-🚗 Automated Technical Inspection Result Bot (Government Data Scraping)
-
-🔹 Automated Technical Inspection Bot (Bot Doroob)
+### 🔹 [Automated Technical Inspection Bot (Bot Doroob)](https://github.com/CodacOne/Bot_Doroob_public.git)
+🚗 Automated Technical Inspection Bot (Bot Doroob)
 
 - Fetches inspection results from the official Ministry website
 
@@ -57,16 +80,6 @@ I enjoy solving real-world problems through code, and I'm always eager to learn 
 
 - Built with a clean, modular C# design for reliability and scalability
 💡 This project reflects my ability to build practical automation solutions that interact with real government systems and handle real-world data complexities.
-
----
-### 🔹 [Automated Technical Inspection Bot (Bot Doroob)](https://github.com/CodacOne/Bot_Doroob_public.git)
-🚗 A real-world automation bot that retrieves and analyzes vehicle technical inspection results:
-- Fetches inspection results from the official Ministry website
-- Parses and analyzes HTML responses to determine vehicle status
-- Extracts detailed inspection messages and conditions
-- Handles error cases and suspended vehicle scenarios
-- Built with clean, modular C# architecture
-
 
 ---
 ### 🔹 [ToDo List RESTful Web API](https://github.com/CodacOne/To_Do_List.git)
